@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Poesia con pre y sin pre </title> 
+	</head>
+
+	<body>
+		<header>
+			<h1> Poesia con pre: </h1>
+		</header>
+		
+		<pre>
+La guitarra
+hace llorar a los sueños.
+El sollozo de las almas
+perdidas
+se escapa por su boca
+redonda.
+Y como la tarántula,
+teje una gran estrella
+para cazar suspiros,
+que flotan en su negro
+aljibe de madera.
+
+		</pre>
+
+		<header>
+			<h1> Poesia sin pre: </h1>
+		</header>
+		
+		<p>
+		La guitarra
+hace llorar a los sueños.
+El sollozo de las almas
+perdidas
+se escapa por su boca
+redonda.
+Y como la tarántula,
+teje una gran estrella
+para cazar suspiros,
+que flotan en su negro
+aljibe de madera.
+		</p>
+
+	
+<a href="file:///media/usuario/CCCOMA_X64F/1%C2%BAgd/lenguaje%20de%20marcas/Practicas%20html/index.html"> volver a la pagina de inicio </a> 
+
+</html>
